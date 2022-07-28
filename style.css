@@ -1,0 +1,111 @@
+body {
+    background-color: blueviolet;
+}
+h1 {
+    align-items: center;
+    
+}
+h2 {
+    align-items: center;
+}
+
+h3{
+    align-items: center;
+}
+
+h4{
+    align-items: center;
+}
+h5{
+    align-items: center;
+}
+#header1 {
+    background-color: green;
+    width: 1310px;
+    height: 300px;
+   
+}
+
+#header1 nav {
+    background-color: white;
+    width: 1200px;
+    height: 100px;
+    align-items: center;
+    
+}
+
+section{
+    background-color: red;
+    width: 450px;
+    height: 780px;
+}
+
+#section1 header{
+    background-color: green;
+    width: 400px;
+    height: 90px;
+}
+
+#section1 article{
+background-color: rgb(91, 161, 189);
+width: 400px;
+height: 600px;
+
+}
+
+#article #header2 {
+    background-color: green;
+    width: 400px;
+    height: 90px;
+}
+
+#article #parra1 {
+    background-color: orange;
+    width: 400px;
+    height: 70px;
+}
+
+#article #parra2{
+    background-color: orange;
+    width: 150px;
+    height: 70px;
+}
+
+#article aside{
+    background-color: white;
+    width: 150px;
+    height: 70px;
+    float: right;
+}
+
+#article #footer1{
+    background-color: white;
+    width: 400px;
+    height: 70px;
+    border: 1ch;
+    
+}
+#section2{
+    background-color: red;
+    width: 450px;
+    height: 780px;
+    float: right;
+}
+
+#section2 #header2 {
+    background-color: green;
+    width: 400px;
+    height: 90px;
+}
+
+#section2 #nav2 {
+    background-color: white;
+    width: 400px;
+height: 600px;
+}
+
+body #footer2 {
+    background-color: white;
+    width: 800px;
+    height: 90px;
+}
